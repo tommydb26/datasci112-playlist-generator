@@ -1,2 +1,2 @@
 # datasci112-playlist-generator
-Using a data-based approach to playlist creation!
+This is my final project for DATASCI 112, for which I collected data on my Spotify liked songs and used various clustering models to organize them into playlists.
